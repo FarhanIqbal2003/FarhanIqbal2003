@@ -1,5 +1,5 @@
 # 💫 Dot Net Consultant:
-I am currently working on Healthcare Solution, Warehouse Management, Human Resource and Payroll Solutions as well as monolith to microservice modernization.
+I am currently working on Warehouse Management Solutions
 
 
 ## 🌐 Socials:
